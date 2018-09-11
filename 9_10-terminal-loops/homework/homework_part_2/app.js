@@ -5,7 +5,7 @@
 // Interpolation lets you stay inside your current string and uses ${variable} to add the string within without have to exit the 
 // string and add each variable with the + symbol
 
-// let name = 'Dave'
+// let name = 'Dave';
 
 // Concatenation // console.log('Hello, ' + name + '. How are you?')
 // Interpolation // console.log(`Hello, ${name}. How are you?`)
