@@ -70,6 +70,7 @@ console.log(letters); // --> AAAAAAAAAAAAAAAAAAA
 
 
 
+
 // 2. Write a for loop that will console.log() the numbers 0 to 999.
 
 	for(let = 0; i <= 999; i++) {
