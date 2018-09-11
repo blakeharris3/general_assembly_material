@@ -80,7 +80,7 @@ console.log(letters); // --> AAAAAAAAAAAAAAAAAAA
 	// Where the loop starts
 	// Where the loop ends
 	// How the loop increments
-	
+
 
 // 4.
 
@@ -91,6 +91,6 @@ console.log(letters); // --> AAAAAAAAAAAAAAAAAAA
 // 5.
 
 	for (let i = 1; i <= 10; i++) {
-		console.log(`The value of i is: ${i} of 10`)
+		console.log(`The value of i is: ${i} of 10`);
 	} 
 
